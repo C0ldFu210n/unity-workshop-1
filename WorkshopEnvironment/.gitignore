@@ -1,3 +1,33 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@Annymex 
+C0ldFu210n
+/
+unity-workshop-1
+Public
+Fork your own copy of C0ldFu210n/unity-workshop-1
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+unity-workshop-1/WorkshopEnvironment/.gitignore
+@C0ldFu210n
+C0ldFu210n first
+Latest commit 9f392e3 11 minutes ago
+ History
+ 1 contributor
+60 lines (49 sloc)  1020 Bytes
+
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
@@ -58,3 +88,18 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+unity-workshop-1/.gitignore at main · C0ldFu210n/unity-workshop-1
